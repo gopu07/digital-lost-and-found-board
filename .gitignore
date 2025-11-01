@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Data files (uncomment if you don't want to track data)
+# backend/data/
+# backend/uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
