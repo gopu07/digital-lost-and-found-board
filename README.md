@@ -14,7 +14,7 @@ A fully functional, responsive, and feature-rich Lost-and-Found web application 
 - **Gamification System**: Badges and achievements for user engagement
 - **Dark/Light Mode**: Smooth theme toggle with persistent preferences
 - **Real-time Updates**: Dynamic status changes and notifications
-- **Mobile-First Design**: Fully responsive with smooth animations
+
 
 ### Backend Features
 - **RESTful API**: Python Flask backend with structured routes
